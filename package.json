@@ -1,0 +1,32 @@
+{
+  "name": "phaser3-typescript",
+  "version": "1.5.4",
+  "description": "Rock paper scissors simulator",
+  "keywords": [],
+  "devDependencies": {
+    "prettier": "2.3.2",
+    "parcel-bundler": "1.12.5",
+    "parcel-plugin-static-files-copy": "2.6.0",
+    "typescript": "4.8.0-dev.20220730"
+  },
+  "dependencies": {
+    "phaser": "3.60.0-beta.9"
+  },
+  "scripts": {
+    "start": "parcel ./index.html -p 8080",
+    "build": "parcel build ./index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berithpy/rock-paper-scissors.git"
+  },
+  "author": {
+    "name": "berithpy",
+    "email": "berith.py@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/berithpy/rock-paper-scissors/issues"
+  },
+  "homepage": "https://github.com/berithpy/rock-paper-scissors#readme"
+}
