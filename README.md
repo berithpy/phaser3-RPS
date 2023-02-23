@@ -8,5 +8,7 @@ Its built with phaser and typescript!
 `$yarn start`
 
 ## See it working here!
-https://berith.moe/rps/   
-[Short video of it working!](rps-small.mp4)
+https://berith.moe/rps/  
+
+https://user-images.githubusercontent.com/8316977/220940197-741d6dec-b946-4127-9622-58502924293f.mp4
+
